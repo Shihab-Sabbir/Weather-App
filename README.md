@@ -1,3 +1,7 @@
+# Deployed on https://srs-weather-app.web.app/
+
+Features : Search by City , Time & Date , Deatailed Weather Condition , 4 days Weather Forecast , Dynamic Weather Icons .
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
