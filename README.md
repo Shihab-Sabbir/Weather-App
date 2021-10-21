@@ -1,6 +1,6 @@
 # Deployed on https://srs-weather-app.web.app/
 
-Features : Search by City , Time & Date , Deatailed Weather Condition , 4 days Weather Forecast , Dynamic Weather Icons .
+Features : Search by City , Time & Date , Deatailed Weather Condition , 4 days Weather Forecast , Dynamic Weather Icons , Background Animation
 
 # Getting Started with Create React App
 
