@@ -2,6 +2,9 @@
 
 Features : Search by City , Time & Date , Deatailed Weather Condition , 4 days Weather Forecast , Dynamic Weather Icons , Background Animation
 
+![weather-app](https://user-images.githubusercontent.com/92453657/139022185-15111acd-804e-42fb-8df9-f8038afb6d13.PNG)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
